@@ -13,10 +13,10 @@ int main(int argc, const char * argv[]) {
     for (int i = 0; i < v.size(); i++){
         v[i] = UTIL::rand_int(1, 100);
     }
-    UTIL::print_vector(v, "(before sort) v");
+    UTIL::print_vector(v, "(before selection_sort) v");
     cout << "\n";
     selection_sort(v);
-    UTIL::print_vector(v, "(after sort) v");
+    UTIL::print_vector(v, "(after selection_sort)  v");
     cout << "\n";
     return 0;
 }
