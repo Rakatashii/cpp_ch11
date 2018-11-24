@@ -1,0 +1,166 @@
+Adam O'Conner       |245233.88 
+Bernard Wyman       |68348.43  
+Adrian Jast         |20354.09  
+Ahmad Roberts       |71260.53  
+Alec Jaskolski      |253557.85 
+Alva Bins           |94048.56  
+Alva Blick          |246819.88 
+Antonietta Leuschke |24614.91  
+Arie Greenfelder    |2832.02   
+Armandina Gaylord   |149094.45 
+Armida Bruen        |76905.46  
+Aurelia Shanahan    |32693.24  
+Aurelio White       |2389.36   
+Barbar Marquardt    |402868.19 
+Benny Daugherty     |195736.06 
+Beverley Olson MD   |209290.42 
+Brain Kuhn          |35451.59  
+Calista Homenick    |84746.79  
+Carie Ziemann IV    |239475.91 
+Carole Quitzon      |284554.6  
+Carrol Price MD     |7427.24   
+Chanda Stoltenberg  |336996.19 
+Charles Fritsch     |15317.27  
+Chas Marquardt MD   |302848.06 
+Chet Daniel         |113683.93 
+Ciara O'Connell     |334441.3  
+Claudio O'Reilly    |119848.31 
+Clement Cremin      |108022.75 
+Collene Kirlin      |26579.82  
+Columbus Buckridge  |2281.49   
+Damon Funk          |134880.71 
+Debera Kris         |52545.51  
+Deshawn Wiegand     |399583.01 
+Douglas Bechtelar   |189817.34 
+Dominque Mante      |139696.76 
+Dorethea Abshire    |209170.24 
+Dorian Dickens DDS  |957.67    
+Dudley Rosenbaum    |244253.0  
+Dylan Mueller       |19277.07  
+Eden Farrell II     |313343.58 
+Edie Wintheiser     |161652.9  
+Eduardo Senger      |110329.98 
+Eldridge Koss I     |67107.23  
+Ellamae Cremin      |415993.43 
+Elton Hettinger     |80049.87  
+Erline Nitzsche     |6617.19   
+Eryn Fisher         |29161.09  
+Esteban Wilderman   |127743.53 
+Etha Anderson       |393683.47 
+Eugenio Fay         |32719.26  
+Eugenio Mertz II    |191396.25 
+Felton Mertz        |22702.34  
+Fernando Hettinger  |99619.37  
+Fidel Daniel        |260905.21 
+Flossie Hintz       |121292.91 
+Gavin Bins          |157701.34 
+Gayla Moen          |173533.66 
+Gilma Wunsch        |37395.24  
+Huey Johns          |52718.39  
+Issac Ledner        |337755.76 
+Jackeline Hammes    |73292.77  
+Janette Walter I    |4535.03   
+Jeff Kassulke       |148979.24 
+Jeffery Wisoky      |187876.14 
+Jerrod Fisher III   |2320.99   
+Jess Schroeder II   |207986.73 
+Jimmy Wintheiser Sr.|308064.46 
+Joe Aufderhar       |116510.59 
+Joel Blick          |235.96    
+Joesph Christiansen |70536.16  
+Jonathon Little     |12566.25  
+Joshua Homenick     |65914.31  
+Jude Hane V         |11574.82  
+Karine Abernathy    |374469.18 
+Justine McKenzie    |103004.46 
+Kandice Haag        |264526.39 
+Katelynn Sawayn     |163.8     
+Katheryn O'Keefe    |336840.22 
+Keisha Reichel      |350057.84 
+Kemberly Klocko MD  |315204.72 
+Kieth Lang V        |112470.9  
+Kirk Russel III     |278320.68 
+Kristofer Wunsch    |120939.79 
+Kristy Lowe         |459676.24 
+Latoya Simonis      |133418.28 
+Lavonia Murphy      |210952.76 
+Lavonia Franecki    |215927.59 
+Le Cruickshank      |4158.8    
+Lee Gutmann         |164411.7  
+Lincoln Dooley DVM  |55272.9   
+Lindsay Kshlerin    |51232.1   
+Lindy Blick         |12461.02  
+Lisa Gaylord        |12410.9   
+Luna Collins IV     |49859.4   
+Luther Rice         |5192.67   
+Madaline Dicki      |175204.19 
+Mae Keebler         |151015.24 
+Margarito Gerhold   |227343.41 
+Maribeth Zemlak MD  |23998.4   
+Marjory Haley MD    |50973.06  
+Marti Tremblay      |355616.49 
+Maryann Brakus      |36452.38  
+Mathew Brakus       |67754.57  
+Matt Farrell DDS    |63423.54  
+Milford Douglas     |5168.39   
+Milo Strosin        |75634.88  
+Minerva Hilpert DDS |124068.61 
+Miss Emile Ullrich  |132658.76 
+Miss Shaunte Bins   |331528.84 
+Miss Alphonse Bailey|36923.19  
+Miss Carlita Schultz|67077.47  
+Miss Jeffrey Schaden|140204.64 
+Miss Ross Barrows   |41368.41  
+Miss Chris Fahey    |181074.38 
+Modesta Walter      |4407.07   
+Modesto Turcotte    |72536.01  
+Morris Nitzsche     |98258.4   
+Natisha Hermann     |169646.38 
+Nicolas Lubowitz DDS|296684.01 
+Norbert Barrows DVM |42427.08  
+Odell Balistreri    |72828.24  
+Oliver Rempel       |432326.9  
+Orlando Hyatt       |80896.94  
+Paris McCullough    |223140.8  
+Pasquale Bernhard   |18809.33  
+Patty Olson DDS     |26860.55  
+Penney Dicki        |51491.14  
+Peter Rodriguez     |15708.42  
+Peter Carter        |19882.14  
+Phillip Nader       |52893.37  
+Pinkie McDermott    |17995.48  
+Quinn Kemmer        |387735.76 
+Rachal Hoeger       |367502.84 
+Rashad Dooley       |37623.77  
+Reagan Gulgowski    |402836.35 
+Reena Rogahn        |170354.21 
+Rhonda King         |34427.77  
+Robin Hettinger     |65873.61  
+Roman McDermott III |29557.24  
+Ronny Kling         |8350.26   
+Rossana Lakin       |24023.35  
+Roy Lesch           |69120.09  
+Samuel Ankunding    |102750.7  
+Sanda Armstrong I   |20326.85  
+Sandie Pagac        |45013.64  
+Sanford Abshire     |76883.36  
+Sharonda Berge      |27873.34  
+Shaunta Glover      |125188.62 
+Shawanna Cormier    |46998.0   
+Shelia Robel        |59530.27  
+Sherise Towne DVM   |205623.62 
+Simonne Wyman       |3425.49   
+Sixta Koepp         |40031.68  
+Stephen Brakus V    |202218.22 
+Sung West           |82520.04  
+Suzanne Von         |188130.96 
+Suzie Bernhard      |74083.62  
+Talisha Block       |188139.87 
+Tana Labadie        |59556.23  
+Tommy Medhurst      |81631.64  
+Trevor Larkin       |79271.41  
+Tristan Rodriguez   |8352.54   
+Val Hauck           |64906.97  
+Vannesa Jenkins     |291147.37 
+Vivien Legros       |14568.99  
+Wilhemina Labadie   |462965.17 
