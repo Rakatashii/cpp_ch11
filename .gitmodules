@@ -4,3 +4,6 @@
 [submodule "P11_14"]
 	path = P11_14
 	url = https://github.com/Rakatashii/Hortmann_Rectangle_Triangle.git
+[submodule "P11_14_15_16"]
+	path = P11_14_15_16
+	url = https://github.com/Rakatashii/Hortmann_Rectangle_Triangle.git
