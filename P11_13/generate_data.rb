@@ -2,7 +2,15 @@
 
 require 'Faker'
 
+def is_numeric?(obj)
+    obj.to_s.match(/\A[+-]?\d+?(\.\d+)?\Z/) == nil ? false : true
+end
+
 n = 200
+args = argv;
+if (argv[0].is_numeric?)
+    n = argv[0].to_i
+end
 
 filename = "/Users/christianmeyer/cpp/ch11/P11_13/data.txt"
 name_width = 20
